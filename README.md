@@ -1,6 +1,6 @@
 # koa-less
 
- less middleware for Koa
+Less middleware for Koa
 
 ## Installation
 
@@ -10,7 +10,7 @@ $ npm install koa-less
 
 ## Options
 
-  See [the less middleware document](https://github.com/emberfeather/less.js-middleware).
+See [the less middleware document](https://github.com/emberfeather/less.js-middleware).
 
 ## Example
 
@@ -29,4 +29,4 @@ app.listen(3000);
 
 ## License
 
-  MIT
+MIT
